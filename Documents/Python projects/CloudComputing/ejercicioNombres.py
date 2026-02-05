@@ -4,4 +4,5 @@ names = ["Angel Arizpe",
          "Diego Rose",
          "Jonathan Salazar"]
 
+print("Bienvenidos bisontes")
 print(names)
